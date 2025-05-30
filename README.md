@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamcrackersssss (or call me Abhizani)
+- 👋 Hi, I’m @iamcrackersssss 
 - 👀 I’m interested in python and ethical hacking
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my project "Tank Arena Assualt"
